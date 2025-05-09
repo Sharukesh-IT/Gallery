@@ -1,7 +1,7 @@
 # Ex.08 Design of Interactive Image Gallery
 ## Date: 09/05/2025
 ## Name: sharukesh.s
-## Reg no: 2122240095
+## Reg no: 212224220095
 
 ## AIM:
 To design a web application for an inteactive image gallery with minimum five images.
